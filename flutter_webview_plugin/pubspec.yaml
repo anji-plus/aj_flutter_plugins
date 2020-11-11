@@ -1,0 +1,14 @@
+name: flutter_webview_plugin
+description: Plugin that allow Flutter to communicate with a native Webview.
+version: 0.0.2
+environment:
+  sdk: ">=2.0.0 <3.0.0"
+
+flutter:
+  plugin:
+    androidPackage: com.flutter_webview_plugin
+    pluginClass: FlutterWebviewPlugin
+
+dependencies:
+  flutter:
+    sdk: flutter

@@ -1,0 +1,28 @@
+name: aj_flutter_component
+description: A new Flutter component package for anji-plus.
+version: 0.0.1
+author:
+homepage:
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+# For information on the generic Dart part of this file, see the
+# following page: https://dart.dev/tools/pub/pubspec
+
+# The following section is specific to Flutter.
+flutter:
+  assets:
+    - assets/images/loading.png
+  fonts:
+    - family: iconfont
+      fonts:
+        - asset: assets/font-icon/iconfont.ttf

@@ -1,0 +1,29 @@
+PODS:
+  - aj_flutter_scan (0.0.1):
+    - Flutter
+    - MTBBarcodeScanner
+  - Flutter (1.0.0)
+  - MTBBarcodeScanner (5.0.9)
+
+DEPENDENCIES:
+  - aj_flutter_scan (from `.symlinks/plugins/aj_flutter_scan/ios`)
+  - Flutter (from `.symlinks/flutter/ios`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - MTBBarcodeScanner
+
+EXTERNAL SOURCES:
+  aj_flutter_scan:
+    :path: ".symlinks/plugins/aj_flutter_scan/ios"
+  Flutter:
+    :path: ".symlinks/flutter/ios"
+
+SPEC CHECKSUMS:
+  aj_flutter_scan: 86f41bc62d332ad85a7fdcb7bfaaad7dcd4bd9d0
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  MTBBarcodeScanner: 2ce0cc045a584467e62a383fcd25f1b4adeb2779
+
+PODFILE CHECKSUM: aff02bfeed411c636180d6812254b2daeea14d09
+
+COCOAPODS: 1.6.0

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+
+    <string name="title_activity_pdf_print">PdfPrintActivity</string>
+    <string name="title_activity_lable_print">LablePrintActivity</string>
+    <string name="app_name">条形码/二维码扫描</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <!-- MainActivity -->
+    <string name="setting">Setting</string>
+    <string name="lable_print">Print Lable</string>
+    <string name="text_print">print Text</string>
+    <string name="pdf_print">Print PDF</string>
+    <string name="picture_print">Print Picture</string>
+    <string name="barcode_print">Print BarCode</string>
+    <string name="no_connected">Printer Not Connected</string>
+    <string name="about_us">About Us</string>
+    <!-- LablePrintActivity -->
+    <string name="lable_of_library_58mm">Library Lable 58mm</string>
+    <string name="lable_of_physical_distribution_100mm">Physical Distribution 100mm</string>
+    <string name="lable_of_anneng_physical_distribution_80mm">Physical Distribution 80mm</string>
+    <string name="lable_of_material_transport_80mm">Material Transport 80mm</string>
+    <string name="lable_of_fruit">Label Of Fruit And Vegetables</string>
+    <string name="lable_of_milky_tea">Label Of Milky Tea Room</string>
+    <string name="lable_of_material_transport_80mm2">Material Transport 80mm</string>
+    <string name="lable_of_tracking_number">Label Of Tracking Number</string>
+    <string name="lable_of_storage">Label Of Storage Sector</string>
+    <!-- SettingActivity -->
+    <string-array name="interface_type">
+        <item>Bluetooth</item>
+        <item>USB</item>
+        <item>Wifi</item>
+        <item>Serial port</item>
+    </string-array>
+    <string-array name="tear_data">
+        <item>tear</item>
+        <item>strip</item>
+        <item>close</item>
+    </string-array>
+    <string-array name="cash_data">
+        <item>prohibit open the box</item>
+        <item>open the box before print</item>
+        <item>open the box after print</item>
+    </string-array>
+    <string-array name="beep_data">
+        <item>ban buzzer</item>
+        <item>buzzer rang before print</item>
+        <item>buzzer rang after print</item>
+    </string-array>
+    <string-array name="printertype">
+        <item>L31</item>
+        <item>L51</item>
+        <item>T10</item>
+        <item>T9</item>
+        <item>T7</item>
+        <item>POS58</item>
+        <item>POS885</item>
+        <item>EU80 series</item>
+    </string-array>
+    <string-array name="spingarr">
+        <item>115200</item>
+        <item>9600</item>
+        <item>230400</item>
+        <item>460800</item>
+    </string-array>
+
+</resources>

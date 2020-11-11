@@ -1,0 +1,17 @@
+name: aj_flutter_plugin
+description: A new Flutter plugin.
+version: 0.0.2
+author: Anji-plus Kean <qizhiyuan@anji-plus.com>
+homepage: http://gitlab.anji-allways.com/mobileteam/modules/tree/master/aj_flutter_plugin
+
+environment:
+  sdk: ">=2.0.0-dev.68.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+flutter:
+  plugin:
+    androidPackage: com.plus.anji.ajflutterplugin
+    pluginClass: AjFlutterPlugin

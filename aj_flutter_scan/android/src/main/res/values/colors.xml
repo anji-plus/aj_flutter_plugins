@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <color name="statusbar_color">@android:color/transparent</color>
+
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="white_trans">#80FFFFFF</color>
+    <color name="gray">#575757</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="semi_transparent_black">#C8000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="orange">#f7b401</color>
+    <color name="purple">#515577</color>
+    <color name="purple_trans">#80515577</color>
+    <color name="overlay_bottom_bar_separators">#333333</color>
+    <color name="overlay_bottom_bar_background">#1E1E1E</color>
+    <color name="hint_text_normal">#ff000000</color>
+    <color name="hint_text_error">#ffff4444</color>
+    <color name="result_check_bg">#80ffffff</color>
+    <color name="standalone_bg">#FF323542</color>
+    <color name="standalone_title_bg">#FF104874</color>
+    <color name="standalone_title_text">#FF00A0E9</color>
+    <color name="standalone_layout_bg">#FF474A55</color>
+    <color name="standalone_result_area">#FF424550</color>
+    <color name="standalone_text">#FFBFBFBF</color>
+    <color name="standalone_text_confirm_bg">#FF104774</color>
+    <color name="standalone_text_cancel_bg">#FF7D7D7D</color>
+    <color name="pro_splash_bg">#FF1A1A24</color>
+    <color name="pro_login_bg">#333542</color>
+    <color name="pro_login_hint_color">#FF6C6F76</color>
+    <color name="pro_register_hint_error">#FFFF4444</color>
+    <color name="pro_register_hint_correct">#FF44FF44</color>
+</resources>
