@@ -10,7 +10,7 @@ flutter与原生交互，包含静态资源获取，版本获取。
 - 使用方式
 xxx:
 git:
-url: http://gitlab.anji-allways.com/mobileteam/modules.git
+url: https://github.com/anji-plus/flutter_plugin.git
 path: xxx
 ```
 

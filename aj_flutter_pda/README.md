@@ -7,7 +7,7 @@
 
     pda:
     git:
-    url: http://gitlab.anji-allways.com/mobileteam/modules.git
+    url: https://github.com/anji-plus/flutter_plugin.git
     path: aj_flutter_pda
 
     Note：在Android中引用armeabi-v7a包，

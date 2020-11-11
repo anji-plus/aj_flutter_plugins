@@ -5,7 +5,7 @@
     ##1、pubspec.yaml引用
     aj_flutter_component:
            git:
-              url: http://gitlab.anji-allways.com/mobileteam/modules.git
+              url: https://github.com/anji-plus/flutter_plugin.git
               path: aj_flutter_component
     
     ##2、无需添加任何权限

@@ -6,7 +6,7 @@
 ```
 flutter_webview_plugin:
 git:
-url: http://gitlab.anji-allways.com/mobileteam/modules.git
+url: https://github.com/anji-plus/flutter_plugin.git
 path: flutter_webview_plugin
 
 ```

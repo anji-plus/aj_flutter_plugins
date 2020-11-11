@@ -4,10 +4,13 @@ Flutter plugin for [umeng:analytics](http://mobile.umeng.com/analytics)
 ##Install
 pubspec.yaml add:
 
+```
 flutter_umeng_analytics:
     git:
-      url: http://gitlab.anji-allways.com/mobileteam/modules.git
+      url: https://github.com/anji-plus/flutter_plugin.git
       path: flutter_umeng_analytics
+```
+
 ## Usage
 
 ### Init

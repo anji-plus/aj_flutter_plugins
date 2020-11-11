@@ -8,7 +8,7 @@
 
     aj_flutter_update:
        git:
-          url: http://gitlab.anji-allways.com/mobileteam/modules.git
+          url: https://github.com/anji-plus/flutter_plugin.git
           path: aj_flutter_update
 
     ##2，权限添加，在AndroidManifest.xml加入

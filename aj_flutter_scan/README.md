@@ -16,7 +16,7 @@ Android选择图片过大可能造成的OOM
 
     aj_flutter_scan:
        git:
-          url: http://gitlab.anji-allways.com/mobileteam/modules.git
+          url: https://github.com/anji-plus/flutter_plugin.git
           path: aj_flutter_scan
 
 ```
