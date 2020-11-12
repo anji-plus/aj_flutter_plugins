@@ -14,6 +14,13 @@ url: https://github.com/anji-plus/flutter_plugin.git
 path: aj_flutter_plugin
 
 ```
+注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+```
+aj_flutter_plugin:
+    git:
+    url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+    path: aj_flutter_plugin
+```
 
 ###使用方式
 

@@ -8,6 +8,11 @@
               url: https://github.com/anji-plus/flutter_plugin.git
               path: aj_flutter_component
     
+    注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+    aj_flutter_component:
+        git:
+        url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+        path: aj_flutter_component
     ##2、无需添加任何权限
 
 

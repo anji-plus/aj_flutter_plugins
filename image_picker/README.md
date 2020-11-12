@@ -1,5 +1,7 @@
 # Image Picker plugin for Flutter
 
+## 该插件是[imagePicker](https://pub.flutter-io.cn/packages/image_picker)经过修改解决Android图片旋转异常及图片压缩处理异常问题
+
 ### iOS
 
 需要在`Info.plist`添加如下权限

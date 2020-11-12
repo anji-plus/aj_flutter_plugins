@@ -1,6 +1,7 @@
 
 # Flutter WebView Plugin
 
+## 该插件是[flutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)解决flutter与webview 进行js交互通信与[webview_flutter](https://pub.flutter-io.cn/packages/webview_flutter)统一而做的处理
 ## 原生webview
 ###集成方式
 ```

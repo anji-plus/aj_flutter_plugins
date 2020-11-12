@@ -10,6 +10,12 @@
        git:
           url: https://github.com/anji-plus/flutter_plugin.git
           path: aj_flutter_update
+    注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+    aj_flutter_update:
+      git:
+      url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+      path: aj_flutter_update
+              
 
     ##2，权限添加，在AndroidManifest.xml加入
       <uses-permission android:name="android.permission.INTERNET" />

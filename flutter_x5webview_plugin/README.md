@@ -1,6 +1,7 @@
 
 # Flutter WebView Plugin
 
+## 该插件是[flutter_webview_plugin](https://pub.flutter-io.cn/packages/flutter_webview_plugin)接入Android X5内核而修改
 ## 原生webview
 ###集成方式
 ```
@@ -10,6 +11,14 @@ url: https://github.com/anji-plus/flutter_plugin.git
 path: flutter_x5webview_plugin
 
 ```
+注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+```
+flutter_x5webview_plugin:
+    git:
+    url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+    path: flutter_x5webview_plugin
+```
+
 ####Android
 因为要加载TBS内核 所以需要下载内核（android 6.0以上需要同意权限）  
 1 同意权限需要引入权限的pub:  

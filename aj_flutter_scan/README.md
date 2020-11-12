@@ -20,6 +20,14 @@ Android选择图片过大可能造成的OOM
           path: aj_flutter_scan
 
 ```
+
+注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+```
+aj_flutter_scan:
+    git:
+    url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+    path: aj_flutter_scan
+```
     
  
 ###二，iOS

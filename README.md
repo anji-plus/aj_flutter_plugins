@@ -10,7 +10,14 @@ flutter与原生交互，包含静态资源获取，版本获取。
 - 使用方式
 xxx:
 git:
-url: https://github.com/anji-plus/flutter_plugin.git
+url: https://github.com/anji-plus/aj_flutter_plugins.git
+path: xxx
+```
+注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+```
+xxx:
+git:
+url: https://gitee.com/anji-plus/aj_flutter_plugins.git
 path: xxx
 ```
 

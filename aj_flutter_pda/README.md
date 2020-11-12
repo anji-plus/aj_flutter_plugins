@@ -9,6 +9,12 @@
     git:
     url: https://github.com/anji-plus/flutter_plugin.git
     path: aj_flutter_pda
+    
+    注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+    pda:
+    git:
+    url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+    path: pda
 
     Note：在Android中引用armeabi-v7a包，
     debug模式下若找不到so文件，且flutter sdk位1.5.4以下包含1.5.4，则置Additional arguments为

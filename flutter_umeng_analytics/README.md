@@ -1,5 +1,5 @@
 # flutter_umeng_analytics
-
+## 该插件是在[umeng:analytics](http://mobile.umeng.com/analytics)基础上做的处理，完善友盟统计接口
 Flutter plugin for [umeng:analytics](http://mobile.umeng.com/analytics)
 ##Install
 pubspec.yaml add:
@@ -9,6 +9,13 @@ flutter_umeng_analytics:
     git:
       url: https://github.com/anji-plus/flutter_plugin.git
       path: flutter_umeng_analytics
+```
+注意：插件url 如果GitHub下载慢的话 可以换成gitee的url
+```
+flutter_umeng_analytics:
+    git:
+    url: https://gitee.com/anji-plus/aj_flutter_plugins.git
+    path: flutter_umeng_analytics
 ```
 
 ## Usage

@@ -1,4 +1,7 @@
+
 # WebView for Flutter (Developers Preview)
+
+## 该插件是[plugins](https://github.com/flutter/plugins)经过修改解决iOS13.4和iOS13.5webview触摸事件异常而提供的解决方案
 
 [![pub package](https://img.shields.io/pub/v/webview_flutter.svg)](https://pub.dartlang.org/packages/webview_flutter)
 
